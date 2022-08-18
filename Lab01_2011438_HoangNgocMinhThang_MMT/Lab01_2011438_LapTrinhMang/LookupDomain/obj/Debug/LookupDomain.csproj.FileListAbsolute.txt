@@ -1,0 +1,11 @@
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\bin\Debug\LookupDomain.exe.config
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\bin\Debug\LookupDomain.exe
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\bin\Debug\LookupDomain.pdb
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.csproj.SuggestedBindingRedirects.cache
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.Form1.resources
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.Properties.Resources.resources
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.csproj.GenerateResource.cache
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.exe
+C:\Users\thang\Desktop\Lab01_2011438_HoangNgocMinhThang_MMT\Lab01_2011438_LapTrinhMang\LookupDomain\obj\Debug\LookupDomain.pdb
