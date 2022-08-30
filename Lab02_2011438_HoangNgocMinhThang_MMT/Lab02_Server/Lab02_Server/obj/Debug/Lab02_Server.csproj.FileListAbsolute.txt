@@ -1,0 +1,8 @@
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\bin\Debug\Lab02_Server.exe.config
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\bin\Debug\Lab02_Server.exe
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\bin\Debug\Lab02_Server.pdb
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\obj\Debug\Lab02_Server.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\obj\Debug\Lab02_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\obj\Debug\Lab02_Server.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\obj\Debug\Lab02_Server.exe
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab02_2011438_HoangNgocMinhThang_MMT\Lab02_Server\Lab02_Server\obj\Debug\Lab02_Server.pdb
