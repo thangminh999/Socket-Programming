@@ -1,0 +1,8 @@
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\bin\Debug\Lab03_Client.exe.config
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\bin\Debug\Lab03_Client.exe
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\bin\Debug\Lab03_Client.pdb
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\obj\Debug\Lab03_Client.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\obj\Debug\Lab03_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\obj\Debug\Lab03_Client.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\obj\Debug\Lab03_Client.exe
+C:\Users\thang\Desktop\LapTrinhMang\Lab\Lab03_2011438_HoangNgocMinhThang_MMT\Lab03_Client\Lab03_Client\obj\Debug\Lab03_Client.pdb
