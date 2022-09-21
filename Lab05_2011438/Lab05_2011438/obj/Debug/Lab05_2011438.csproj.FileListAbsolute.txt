@@ -1,0 +1,7 @@
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\bin\Debug\Lab05_2011438.exe.config
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\bin\Debug\Lab05_2011438.exe
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\bin\Debug\Lab05_2011438.pdb
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\obj\Debug\Lab05_2011438.csprojAssemblyReference.cache
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\obj\Debug\Lab05_2011438.csproj.CoreCompileInputs.cache
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\obj\Debug\Lab05_2011438.exe
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab05_2011438\Lab05_2011438\obj\Debug\Lab05_2011438.pdb
