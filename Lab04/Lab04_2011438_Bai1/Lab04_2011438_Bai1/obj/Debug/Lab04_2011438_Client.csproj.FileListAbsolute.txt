@@ -1,0 +1,6 @@
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab04\Lab04_2011438_Bai1\Lab04_2011438_Bai1\bin\Debug\Lab04_2011438_Bai1.exe.config
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab04\Lab04_2011438_Bai1\Lab04_2011438_Bai1\bin\Debug\Lab04_2011438_Bai1.exe
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab04\Lab04_2011438_Bai1\Lab04_2011438_Bai1\bin\Debug\Lab04_2011438_Bai1.pdb
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab04\Lab04_2011438_Bai1\Lab04_2011438_Bai1\obj\Debug\Lab04_2011438_Client.csproj.CoreCompileInputs.cache
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab04\Lab04_2011438_Bai1\Lab04_2011438_Bai1\obj\Debug\Lab04_2011438_Bai1.exe
+N:\thanghnm\LapTrinhMang\Socket-Programming\Lab04\Lab04_2011438_Bai1\Lab04_2011438_Bai1\obj\Debug\Lab04_2011438_Bai1.pdb
