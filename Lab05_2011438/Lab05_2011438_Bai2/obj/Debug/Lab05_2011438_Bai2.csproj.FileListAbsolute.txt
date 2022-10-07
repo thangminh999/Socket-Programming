@@ -1,0 +1,8 @@
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\bin\Debug\Lab05_2011438_Bai2.exe.config
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\bin\Debug\Lab05_2011438_Bai2.exe
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\bin\Debug\Lab05_2011438_Bai2.pdb
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\obj\Debug\Lab05_2011438_Bai2.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\obj\Debug\Lab05_2011438_Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\obj\Debug\Lab05_2011438_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\obj\Debug\Lab05_2011438_Bai2.exe
+C:\Users\thang\Desktop\Socket-Programming\Lab05_2011438\Lab05_2011438_Bai2\obj\Debug\Lab05_2011438_Bai2.pdb

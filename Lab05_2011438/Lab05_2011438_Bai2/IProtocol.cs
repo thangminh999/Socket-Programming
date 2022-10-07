@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Net;
 
-namespace Lab05_2011438
+namespace Lab05_2011438_Bai2
 {
-    public interface IProtocol
+    interface IProtocol
     {
         void handleclient();
     }

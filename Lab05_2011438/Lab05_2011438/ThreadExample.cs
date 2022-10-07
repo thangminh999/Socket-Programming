@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Net;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace Lab05_2011438
 {
-    class ThreadExample
+    class ThreadExample : MyThreadClass
     {
         static void Main(string[] args)
         {
@@ -19,35 +18,7 @@ namespace Lab05_2011438
             MyThreadClass mtc2 = new MyThreadClass("Day la tieu trinh thu 2");
             Thread thread2 = new Thread(new ThreadStart(mtc2.runMyThread));
             thread2.Start();
-
             Console.ReadKey();
-        }
-
-
-    }
-    class MyThreadClass
-    {
-        private const int RANDOM_SLEEP_MAX = 1000;
-        private const int LOOP_COUNT = 10;
-
-        private String greeting;
-
-        public MyThreadClass(String greeting)
-        {
-            this.greeting = greeting;
-        }
-        public void runMyThread()
-        {
-            Random rand = new Random();
-            for(int x = 0; x < LOOP_COUNT; x++)
-            {
-                Console.WriteLine(greeting + "(Thread ID: " + Thread.CurrentThread.GetHashCode() + ")");
-                try
-                {
-                    Thread.Sleep(rand.Next(0, RANDOM_SLEEP_MAX));
-                }
-                catch (ThreadInterruptedException) { }
-            }
         }
     }
 }

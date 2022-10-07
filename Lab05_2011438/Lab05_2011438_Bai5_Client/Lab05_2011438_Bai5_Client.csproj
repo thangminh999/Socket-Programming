@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5CAB78AD-846C-4E51-BFDE-28EA3579C222}</ProjectGuid>
+    <ProjectGuid>{7F0CEDB4-2348-43C6-8E17-BF5BAF5F8341}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lab05_2011438</RootNamespace>
-    <AssemblyName>Lab05_2011438</AssemblyName>
+    <RootNamespace>Lab05_2011438_Bai5_Client</RootNamespace>
+    <AssemblyName>Lab05_2011438_Bai5_Client</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ThreadExample.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
