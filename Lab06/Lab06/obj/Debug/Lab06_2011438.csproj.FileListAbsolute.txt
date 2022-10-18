@@ -1,0 +1,11 @@
+C:\Users\thang\Downloads\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\thang\Downloads\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\thang\Downloads\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06_2011438.csproj.AssemblyReference.cache
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06_2011438.csproj.SuggestedBindingRedirects.cache
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06.Form1.resources
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06_2011438.csproj.GenerateResource.cache
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06_2011438.csproj.CoreCompileInputs.cache
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\thang\Downloads\Lab06\Lab06\obj\Debug\Lab06.pdb
