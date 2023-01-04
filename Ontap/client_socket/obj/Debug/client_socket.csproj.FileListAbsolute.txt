@@ -1,0 +1,10 @@
+X:\Ontap\client_socket\bin\Debug\client_socket.exe.config
+X:\Ontap\client_socket\bin\Debug\client_socket.exe
+X:\Ontap\client_socket\bin\Debug\client_socket.pdb
+X:\Ontap\client_socket\obj\Debug\client_socket.csproj.AssemblyReference.cache
+X:\Ontap\client_socket\obj\Debug\client_socket.Form1.resources
+X:\Ontap\client_socket\obj\Debug\client_socket.Properties.Resources.resources
+X:\Ontap\client_socket\obj\Debug\client_socket.csproj.GenerateResource.cache
+X:\Ontap\client_socket\obj\Debug\client_socket.csproj.CoreCompileInputs.cache
+X:\Ontap\client_socket\obj\Debug\client_socket.exe
+X:\Ontap\client_socket\obj\Debug\client_socket.pdb

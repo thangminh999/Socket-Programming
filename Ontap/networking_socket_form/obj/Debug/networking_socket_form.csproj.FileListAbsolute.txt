@@ -1,0 +1,10 @@
+X:\Ontap\networking_socket_form\bin\Debug\networking_socket_form.exe.config
+X:\Ontap\networking_socket_form\bin\Debug\networking_socket_form.exe
+X:\Ontap\networking_socket_form\bin\Debug\networking_socket_form.pdb
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.csproj.AssemblyReference.cache
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.frm_Server.resources
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.Properties.Resources.resources
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.csproj.GenerateResource.cache
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.csproj.CoreCompileInputs.cache
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.exe
+X:\Ontap\networking_socket_form\obj\Debug\networking_socket_form.pdb
